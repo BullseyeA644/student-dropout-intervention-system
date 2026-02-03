@@ -35,7 +35,7 @@ High dropout rates in higher education negatively impact students and institutio
 
 ## Project Structure
 
-student_success_app/
+student-dropout-intervention-system/
 
 - app.py
 - student_success_binary_model.h5
